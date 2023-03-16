@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7mWlmAOnphwQaTxye5wiZgaKHnpGtNg0AUJG/1B2SaFgclUUSSC7qogXxOW2axawvP8gTxfmFyxrvw6HTQfTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\source\\repos\\Бюджет\\Бюджет\\Бюджет.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
